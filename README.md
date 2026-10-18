@@ -6,7 +6,7 @@ This project extracts the location of objects of interest from a drone video and
 
 ## Try It in Your Browser
 
-The project is [deployed to Github Pages here](https://hotspotaerial.github.io/maladrone_georeferencing/) and you can test it out with [this sample video and flight log](https://drive.google.com/drive/folders/1m0lmYyLEQJiaykf821rYtyRvlO5Q_SAf).
+The project is [deployed to Github Pages here](https://hotspotaerial.github.io/maladrone-georeferencing/) and you can test it out with [this sample video and flight log](https://drive.google.com/drive/folders/1m0lmYyLEQJiaykf821rYtyRvlO5Q_SAf).
 
 If you have your own Drone video you'd like to use, [follow the instructions in the blog post to pull your detailed flight log from Airdata](https://blog.roboflow.com/georeferencing-drone-videos/).
 
