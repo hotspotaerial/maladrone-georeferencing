@@ -6,6 +6,7 @@ on:
 
 jobs:
   build:
+    if: github.repository == 'hotspotaerial/maladrone_georeferencing'
     runs-on: ubuntu-latest
 
     strategy:
